@@ -1,0 +1,16 @@
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Bheema\source\repos\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
